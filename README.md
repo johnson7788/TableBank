@@ -66,7 +66,7 @@ TableBank is released under the [Attribution-NonCommercial-NoDerivs License](htt
 其中所有文档的指标都是通过对重叠区域，预测区域和基本事实的求和来计算的。
 对于表结构识别，我们使用4-gram BLEU得分作为具有单个参考的评估指标。
 
-### Table Detection
+### 表格检测
 我们使用开源框架Detectron [Girshick et al。，2018]在TableBank上训练模型。
 Detectron是用于对象检测研究的高质量和高性能代码库，它支持许多最新算法。
 在此任务中，我们使用具有ResNeXt [Xie et al。，2016]的Faster R-CNN算法作为骨干网络架构，

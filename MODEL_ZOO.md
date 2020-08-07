@@ -3,7 +3,7 @@
 ## Introduction
 
 下面列出了在我们的基准中训练的模型。 所有模型在各自的骨干网络下均经过了20个epoch的训练。 
-使用[detectron](https://github.com/facebookresearch/Detectron/blob/master/MODEL_ZOO.md)
+使用[detectron](https://github.com/johnson7788/detectron2/blob/master/MODEL_ZOO.md)
 
 提供的预训练模型。
 
