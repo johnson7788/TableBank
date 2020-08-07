@@ -98,7 +98,7 @@ OpenNMT主要设计用于神经机器翻译，它支持许多编码器-解码器
 
 ## Model Zoo
 
-训练有素的模型可从 [TableBank Model Zoo](MODEL_ZOO.md)下载
+训练好的模型可从 [TableBank Model Zoo](MODEL_ZOO.md)下载
 
 ## Quick Start
 这是测试预训练模型并可视化“Table Detection”任务的性能的pipeline。 [表格检测]（TestPretrainedModel.md）。
