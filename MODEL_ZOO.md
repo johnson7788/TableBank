@@ -11,15 +11,21 @@
 
 All models available for download through this document are licensed under the [Attribution-NonCommercial-NoDerivs License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-## Models
+## Models 模型下载
 
 ### Table Detection 
 在TableBank上训练的模型以Detectron使用的格式提供。
 
-- [Without Copyright Data X101](https://conversationhub.blob.core.windows.net/tablebank/model_zoo/Without_copyright/X101/model_final.pkl): Trained ResNeXt101 on latex and word mixed dataset without Copyright data.[[config](https://conversationhub.blob.core.windows.net/tablebank/model_zoo/Without_copyright/X101/config_X101.yaml)]
-- [Without Copyright Data X152](https://conversationhub.blob.core.windows.net/tablebank/model_zoo/Without_copyright/X152/model_final.pkl): Trained ResNeXt152 on latex and word mixed dataset without Copyright data.[[config](https://conversationhub.blob.core.windows.net/tablebank/model_zoo/Without_copyright/X152/config_X152.yaml)]
+Trained ResNeXt101 on latex and word mixed dataset without Copyright data.表检测模型下载
+- [Without Copyright Data X101](https://conversationhub.blob.core.windows.net/tablebank/model_zoo/Without_copyright/X101/model_final.pkl): 
+- [[config](https://conversationhub.blob.core.windows.net/tablebank/model_zoo/Without_copyright/X101/config_X101.yaml)]
 
-### Table Recognition
+Trained ResNeXt152 on latex and word mixed dataset without Copyright data.表检测模型下载
+- [Without Copyright Data X152](https://conversationhub.blob.core.windows.net/tablebank/model_zoo/Without_copyright/X152/model_final.pkl): 
+[[config](https://conversationhub.blob.core.windows.net/tablebank/model_zoo/Without_copyright/X152/config_X152.yaml)]
+
+
+### Table Recognition，表识别模型下载
 在TableBank上训练的模型以OpenNMT使用的格式提供。
-
-- [Without Copyright Data](https://conversationhub.blob.core.windows.net/tablebank/model_zoo/Recognition_all_without_copyright/model.pt): Trained image-to-markup model on latex and word mixed dataset without Copyright data.
+Trained image-to-markup model on latex and word mixed dataset without Copyright data.
+- [Without Copyright Data](https://conversationhub.blob.core.windows.net/tablebank/model_zoo/Recognition_all_without_copyright/model.pt): 
